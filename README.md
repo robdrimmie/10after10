@@ -7,9 +7,10 @@ These projects are primarily worked on after the kids are in bed.
 ## Projects
 
 ### (10) The website
-Debating github page (jekyll) vs squarespace. The former, even with a paid account (to keep the projects private) is definitely cheaper and it would be nice to have a few private repos anyway.
+Considered squarespace but for now I'm poking around with github pages.
 
-### (9)
+### (9) - (1) ??
+Some of the ones that have been rattling around my brain for a while and are particularly interesting:
 
 - blastula (project definition app)
 - jowka (rhythm game)
@@ -19,4 +20,4 @@ Debating github page (jekyll) vs squarespace. The former, even with a paid accou
 - shower ideas
 - rsslow
 - doris 
-- tbd
+- rdc 
