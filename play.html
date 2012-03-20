@@ -10,6 +10,36 @@
       background-color: #fff;
     }
 
+    #hourHand {
+      position: absolute;
+
+      top: 52%;
+      left: 29.8%;
+
+      width: 4%;
+      min-width: 4px;
+      height: 60%;
+
+      background-color: black;
+
+      -webkit-transform:rotate(-60deg);
+    }
+
+    #minuteHand {
+      position: absolute;
+
+      top: 47%;
+      left: 67%;
+
+      width: 2%;
+      min-width: 2px;
+      height: 65%;
+
+      background-color: black;
+
+      -webkit-transform:rotate(60deg);
+    }
+
     #secondHand {
       position: absolute;
 
@@ -49,6 +79,8 @@
 <body>
   <div id="clockborder" class="clock"></div>
   <div id="clockbody" class="clock"></div>
+  <div id="hourHand"></div>
+  <div id="minuteHand"></div>
   <div id="secondHand"></div>
 </body>
 <!--
